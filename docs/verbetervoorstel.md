@@ -47,7 +47,7 @@ title: Productvisie Haal Centraal
 <br>
 
 <h3 class="card-title">BRP</h3>
-<p class="card-text">Voor informatie m.b.t. alle BRP gerelateerde API specificaties verwijzen we naar het <a href="https://developer.rvig.nl/brp-api/">RvIG voor Developers portaal>></a>
+<p class="card-text">Voor informatie m.b.t. alle BRP gerelateerde API specificaties verwijzen we naar het <a href="https://developer.rvig.nl/brp-api/">RvIG voor Developers portaal>></a></p>
 
 &nbsp;   
 
