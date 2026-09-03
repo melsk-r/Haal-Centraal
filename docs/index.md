@@ -76,10 +76,8 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h3 class="card-title">De Community</h3>
-        <p class="card-text">
-        Wil je geïnformeerd blijven over productwijzigingen of meepraten over de API meld je dan aan bij de community.<br/><a href="https://haalcentraal.pleio.nl/">Ga naar de community>></a>
-        </p>
+        <h3 class="card-title">&nbsp;</h3>
+        <p class="card-text">&nbsp;</p>
       </div>
     </div>
   </div>
