@@ -43,9 +43,6 @@ title: Productvisie Haal Centraal
 <h3 class="card-title">BRP</h3>
 <p class="card-text">Voor contactinformatie m.b.t. alle BRP gerelateerde API specificaties verwijzen we naar het <a href="https://developer.rvig.nl/brp-api/">RvIG voor Developers portaal>></a></p>
 
-&nbsp;   
-Op ons [samenwerkingsplatform op Pleio](https://haalcentraal.pleio.nl/) vind je algemene en specifieke informatie die je kunt gebruiken bij het starten met Haal Centraal. Over de planning en ontwikkelingen. Je vindt er ook veel gestelde vragen en antwoorden. En je kunt in de community’s kennis delen met én ophalen bij vakgenoten. 
-
 &nbsp;
 
 &nbsp;
